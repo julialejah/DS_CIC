@@ -1,5 +1,4 @@
 # DS_CIC
-# Juliana Arevalo: julianalejandra@gmail.com
 MACHINE LEARNING PROCESSING 
 Download CSV from https://registry.opendata.aws/cse-cic-ids2018/
 
@@ -12,3 +11,5 @@ Process in physical infraestructure (tested on Processor Intel(R) Xeon(R) W-2223
 
 PHY_SDN folder:
 Process in physical infraestructure (tested on Processor Intel(R) Xeon(R) W-2223 CPU @ 3.60GHz, 64 GB RAM and an Nvidia 2080ti GPU) with 11 features selected for software defined networks
+
+Juliana Arevalo: julianalejandra@gmail.com
