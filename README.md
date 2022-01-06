@@ -1,4 +1,5 @@
 # DS_CIC
+# Juliana Arevalo: julianalejandra@gmail.com
 MACHINE LEARNING PROCESSING 
 Download CSV from https://registry.opendata.aws/cse-cic-ids2018/
 
