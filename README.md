@@ -12,7 +12,7 @@ Process in physical infraestructure (tested on Processor Intel(R) Xeon(R) W-2223
 PHY_SDN folder:
 Process in physical infraestructure (tested on Processor Intel(R) Xeon(R) W-2223 CPU @ 3.60GHz, 64 GB RAM and an Nvidia 2080ti GPU) with 11 features selected for software defined networks
 
-Juliana Arevalo: j.arevaloh.2019@alumnos.urjc.ed
+Juliana Arevalo: j.arevaloh.2019@alumnos.urjc.es
 
 Research publication:
 Juliana Arevalo-Herrera, Jorge Eliecer Camargo Mendoza, and Jose Ignacio Martinez Torre. 2022. Network anomaly detection with machine learning techniques for SDN networks. In Proceedings of the 7th International Conference on Information and Education Innovations (ICIEI '22). Association for Computing Machinery, New York, NY, USA, 129–135. https://doi.org/10.1145/3535735.3535750
